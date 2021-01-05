@@ -1,0 +1,147 @@
+body{
+    background: #f6f6f6;
+    font-family: "Verdana",sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #2a95cd;
+}
+i{
+    color: #2a95cd;
+}
+.contenter{
+    width: 870px;
+    margin: 0px auto;
+}
+.header_area{
+    padding-bottom: 25px;
+}
+.header_area img{
+    
+}
+.intro_area{
+    
+}
+.intro_image{
+    width: 495px;
+    float: left;
+    padding-right: 25px;
+}
+.intro_image img{
+    
+}
+.intro_text{
+    float: left;
+    width: 350px;
+}
+.intro_text h1{
+    color: #2a95cd;
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0px;
+    padding-bottom: 16px;
+}
+.intro_text p{
+    margin: 0px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: justify;
+    color: #b6b6b6;
+}
+.content_area_line{
+    border-top: 1px solid white;
+    float: left;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 100%;
+}
+.content_area{
+    
+}
+.service_area{
+    float: left;
+    width: 350px;
+    padding-right: 10px;
+}
+.service{
+    /*border: 1px solid #ddd;
+    border-radius: 25px;*/
+    float: left;
+    width: 350px;
+    height: 147px;
+    display: block;
+    background: none repeat scroll 0 0 #f1f1f1;
+    margin-bottom: 14px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+.service img{
+    float: left;
+    padding: 15px;
+    margin-top: 15px;
+}
+.service p{
+    padding-top: 5px;
+    padding-right: 21px;
+    font-size: 12px;
+    line-height: 19px;
+    text-align: justify;
+    color: #b6b6b6;
+}
+.service:nth-of-type(2) p{
+    padding-top: 17px;
+}
+.service:nth-of-type(3) p{
+    padding-top: 15px;
+}
+.content{
+    background: none repeat scroll 0 0 #f1f1f1;
+    float: left;
+    width: 508px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    display: block;
+}
+.content h1{
+    margin: 0px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #666;
+    font-weight: normal;
+    font-size: 25px;
+}
+.content p{
+    
+    padding: 10px 27px 33px 30px;
+    margin: 0px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: justify;
+    color: #b6b6b6;
+}
+.footer_area{
+   background: none repeat scroll 0 0 #f1f1f1;
+    float: left;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+.copyright{
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+.copyright p{
+    text-align: left;
+    font-size: 12px;
+}
+.designer{
+    float: right;
+    width: 390px;
+    padding: 20px;
+}
+.designer p{
+    text-align: right;
+    font-size: 12px;
+}
